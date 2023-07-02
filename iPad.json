@@ -30,5 +30,5 @@
     { "id": "F003", "device":"Mac", "color": "金色", "price": 37900, "storage": "256GB", "picture": "macbook-gold.jpeg" },
     { "id": "F004", "device":"Mac", "color": "灰色", "price": 46900, "storage": "512GB", "picture": "macbook-gray.jpeg" },
     { "id": "F005", "device":"Mac", "color": "銀色", "price": 46900, "storage": "512GB", "picture": "macbook-silver.jpeg" },
-    { "id": "F006", "device":"Mac", "color": "金色", "price": 46900, "storage": "512GB", "picture": "macbook-gold.jpeg" },
+    { "id": "F006", "device":"Mac", "color": "金色", "price": 46900, "storage": "512GB", "picture": "macbook-gold.jpeg" }
 ]
